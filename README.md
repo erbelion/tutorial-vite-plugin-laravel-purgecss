@@ -16,7 +16,6 @@ php artisan serve
 ## how to do it yourself
 
 ```
-cd tutorial-vite-plugin-laravel-purgecss
 composer create-project laravel/laravel:10.2.9 .
 composer require laravel/ui
 php artisan ui bootstrap
