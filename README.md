@@ -1,11 +1,11 @@
-# showcase-vite-plugin-laravel-purgecss
+# tutorial-vite-plugin-laravel-purgecss
 
-showcase of [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.3 running on laravel/laravel@10.2.9
+tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.3 running on laravel/laravel@10.2.9
  
 ## what's been done here
 
 ```
-cd showcase-vite-plugin-laravel-purgecss
+cd tutorial-vite-plugin-laravel-purgecss
 composer create-project laravel/laravel:10.2.9 .
 composer require laravel/ui
 php artisan ui bootstrap
@@ -14,11 +14,11 @@ npm run build
 php artisan serve
 ```
 
-changed [resources\views\welcome.blade.php](https://github.com/erbelion/showcase-vite-plugin-laravel-purgecss/blob/main/resources/views/welcome.blade.php)
+changed [resources\views\welcome.blade.php](https://github.com/erbelion/tutorial-vite-plugin-laravel-purgecss/blob/main/resources/views/welcome.blade.php)
 
-changed [vite.config.js](https://github.com/erbelion/showcase-vite-plugin-laravel-purgecss/blob/main/vite.config.js)
+changed [vite.config.js](https://github.com/erbelion/tutorial-vite-plugin-laravel-purgecss/blob/main/vite.config.js)
 
-added but not needed [public\guide.png](https://github.com/erbelion/showcase-vite-plugin-laravel-purgecss/blob/main/public/guide.png)
+added but not needed [public\guide.png](https://github.com/erbelion/tutorial-vite-plugin-laravel-purgecss/blob/main/public/guide.png)
 
 ## results
 
