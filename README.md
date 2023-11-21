@@ -1,8 +1,19 @@
 # tutorial-vite-plugin-laravel-purgecss
 
 tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.3 running on laravel/laravel@10.2.9
- 
-## what's been done here
+
+## how to run this example
+
+clone this repo
+
+```
+composer install
+npm install
+npm run build
+php artisan serve
+```
+
+## how to do it yourself
 
 ```
 cd tutorial-vite-plugin-laravel-purgecss
