@@ -1,6 +1,6 @@
 # showcase-vite-plugin-laravel-purgecss
 
-showcase of [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.2 running on laravel@10.2.9
+showcase of [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.3 running on laravel@10.2.9
  
 ## what's been done here
 
@@ -9,7 +9,7 @@ cd showcase-vite-plugin-laravel-purgecss
 composer create-project laravel/laravel:10.2.9 .
 composer require laravel/ui
 php artisan ui bootstrap
-npm install @erbelion/vite-plugin-laravel-purgecss@0.2.2
+npm install @erbelion/vite-plugin-laravel-purgecss@0.2.3
 npm run build
 php artisan serve
 ```
