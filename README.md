@@ -1,6 +1,6 @@
 # showcase-vite-plugin-laravel-purgecss
 
-showcase of [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.3 running on laravel@10.2.9
+showcase of [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.2.3 running on laravel/laravel@10.2.9
  
 ## what's been done here
 
