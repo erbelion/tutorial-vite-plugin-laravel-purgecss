@@ -14,11 +14,11 @@ npm run build
 php artisan serve
 ```
 
-changed [resources\views\welcome.blade.php](https://github.com/erbelion/vite-plugin-laravel-purgecss/blob/main/resources/views/welcome.blade.php)
+changed [resources\views\welcome.blade.php](https://github.com/erbelion/showcase-vite-plugin-laravel-purgecss/blob/main/resources/views/welcome.blade.php)
 
-changed [vite.config.js](https://github.com/erbelion/vite-plugin-laravel-purgecss/blob/main/vite.config.js)
+changed [vite.config.js](https://github.com/erbelion/showcase-vite-plugin-laravel-purgecss/blob/main/vite.config.js)
 
-added but not needed [public\guide.png](https://github.com/erbelion/vite-plugin-laravel-purgecss/blob/main/public/guide.png)
+added but not needed [public\guide.png](https://github.com/erbelion/showcase-vite-plugin-laravel-purgecss/blob/main/public/guide.png)
 
 ## results
 
