@@ -18,7 +18,7 @@ php artisan serve
 ## how to do it yourself
 
 ```
-composer create-project laravel/laravel:11.0.7 .
+composer create-project laravel/laravel:11.3.2 .
 composer require laravel/ui
 php artisan ui bootstrap
 npm install @erbelion/vite-plugin-laravel-purgecss@0.2.5
