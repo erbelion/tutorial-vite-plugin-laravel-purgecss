@@ -4,5 +4,10 @@
 // Variables
 @import 'variables';
 
-// Bootstrap
-@import 'bootstrap/scss/bootstrap';
+#not_used_rule_from_app_scss {
+    color: green;
+}
+
+#used_rule_from_app_scss {
+    color: blue;
+}
