@@ -8,7 +8,7 @@
 <body>
     <div class="col-lg-8 mx-auto p-4 py-md-5">
         <main>
-            <h1 class="text-body-emphasis">tutorial-vite-plugin-laravel-purgecss@0.2.5</h1>
+            <h1 class="text-body-emphasis">tutorial-vite-plugin-laravel-purgecss@0.3.1</h1>
             <div class="mb-5">
                 <a href="https://github.com/erbelion/vite-plugin-laravel-purgecss"
                     class="btn btn-lg px-4 btn-primary">@erbelion/vite-plugin-laravel-purgecss</a>
