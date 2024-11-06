@@ -21,7 +21,7 @@ php artisan serve
 composer create-project laravel/laravel:11.0.7 .
 composer require laravel/ui
 php artisan ui bootstrap
-npm install @erbelion/vite-plugin-laravel-purgecss@11.3.2
+npm install @erbelion/vite-plugin-laravel-purgecss@0.2.5
 ```
 
 in .env, set `SESSION_DRIVER=file`
