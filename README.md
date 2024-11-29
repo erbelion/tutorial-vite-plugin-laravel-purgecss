@@ -2,7 +2,7 @@
 
 [![views](https://views.erbek.space/api/views.svg?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)](https://views.erbek.space/page/?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss) [![likes](https://views.erbek.space/api/likes.svg?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)](https://views.erbek.space/api/like?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)
 
-tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.3.1 running on laravel/laravel@11.3.2
+tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.3.3 running on laravel/laravel@11.3.2
 
 ## how to run this example
 
@@ -21,7 +21,7 @@ php artisan serve
 composer create-project laravel/laravel:11.3.2 .
 composer require laravel/ui
 php artisan ui bootstrap
-npm install @erbelion/vite-plugin-laravel-purgecss@0.3.1
+npm install @erbelion/vite-plugin-laravel-purgecss@0.3.3
 ```
 
 in .env, set `SESSION_DRIVER=file`
@@ -41,11 +41,13 @@ php artisan serve
 ## results
 
 ### laravel
+
 ```
 public/build/assets/app-CoDpR7nl.css  228.92 kB │ gzip: 30.90 kB
 ```
 
 ### laravel + @erbelion/vite-plugin-laravel-purgecss
+
 ```
 public/build/assets/app-CoDpR7nl.css  9.77 kB │ gzip: 2.91 kB
 ```
