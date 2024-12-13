@@ -21,6 +21,7 @@ php artisan serve
 composer create-project laravel/laravel:11.4.0 .
 composer require laravel/ui
 php artisan ui bootstrap
+npm install
 npm install @erbelion/vite-plugin-laravel-purgecss@0.3.4
 ```
 
@@ -30,10 +31,11 @@ overwrite [resources\views\welcome.blade.php](https://github.com/erbelion/tutori
 
 overwrite [vite.config.js](https://github.com/erbelion/tutorial-vite-plugin-laravel-purgecss/blob/main/vite.config.js)
 
+overwrite [resources\sass\app.scss](https://github.com/erbelion/tutorial-vite-plugin-laravel-purgecss/blob/main/resources/sass/app.scss)
+
 (not needed) create [public\guide.png](https://github.com/erbelion/tutorial-vite-plugin-laravel-purgecss/blob/main/public/guide.png)
 
 ```
-npm run install
 npm run build
 php artisan serve
 ```
@@ -43,11 +45,11 @@ php artisan serve
 ### laravel
 
 ```
-public/build/assets/app-CoDpR7nl.css  228.92 kB │ gzip: 30.90 kB
+public/build/assets/app-CLUG7ZNT.css  230.78 kB │ gzip: 31.45 kB
 ```
 
 ### laravel + @erbelion/vite-plugin-laravel-purgecss
 
 ```
-public/build/assets/app-CoDpR7nl.css  9.77 kB │ gzip: 2.91 kB
+public/build/assets/app-CLUG7ZNT.css   10.04 kB │ gzip:  3.00 kB
 ```
