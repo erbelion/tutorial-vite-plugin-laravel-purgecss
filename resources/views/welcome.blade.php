@@ -36,7 +36,7 @@
                         remember — it only works in production mode
                     </p>
                     <p id="used_rule_from_app_scss">
-                        also check out resources/sass/app.scss!
+                        also check out resources/sass/app.scss! — try to add <code>not_</code> in front of id of this paragraph
                     </p>
                 </div>
                 <img src="./guide.png" class="img-fluid">

@@ -2,7 +2,7 @@
 
 [![views](https://views.erbek.space/api/views.svg?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)](https://views.erbek.space/page/?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss) [![likes](https://views.erbek.space/api/likes.svg?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)](https://views.erbek.space/api/like?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)
 
-tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.4.0 running on laravel/laravel@12.0.9
+tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.4.2 running on laravel/laravel@12.2.0
 
 ## 🚀 how to run this example
 
@@ -18,11 +18,11 @@ php artisan serve
 ## 🤓 how to do it yourself
 
 ```bash
-composer create-project laravel/laravel:12.0.9 .
+composer create-project laravel/laravel:12.2.0 .
 composer require laravel/ui
 php artisan ui bootstrap
 npm install
-npm install @erbelion/vite-plugin-laravel-purgecss@0.4.0
+npm install @erbelion/vite-plugin-laravel-purgecss@0.4.2
 ```
 
 in .env, set `SESSION_DRIVER=file`
@@ -45,11 +45,11 @@ php artisan serve
 ### laravel
 
 ```
-public/build/assets/app-BtR4ZoVk.css  227.48 kB │ gzip: 31.27 kB
+public/build/assets/app-B6gi_AFq.css  227.14 kB │ gzip: 30.93 kB
 ```
 
 ### laravel + @erbelion/vite-plugin-laravel-purgecss
 
 ```
-public/build/assets/app-BtR4ZoVk-b7997f51.css   10.18 kB │ gzip:  3.06 kB
+public/build/assets/app-B6gi_AFq-794b0716.css   10.18 kB │ gzip:  3.07 kB
 ```
