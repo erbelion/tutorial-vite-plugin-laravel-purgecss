@@ -21,7 +21,7 @@
                 <h1 class="text-body-emphasis">tutorial-vite-plugin-laravel-purgecss@0.3.4</h1>
                 <div class="mb-5">
                     <a href="https://github.com/erbelion/vite-plugin-laravel-purgecss"
-                        class="btn btn-lg px-4 btn-primary">@erbelion/vite-plugin-laravel-purgecss</a>
+                        class="btn btn-lg px-4 btn-primary hehe">@erbelion/vite-plugin-laravel-purgecss</a>
                 </div>
                 <div class="fs-5 col-md-12">
                     <p>try replacing <code>btn-primary</code> class of the button above from

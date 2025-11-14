@@ -14,3 +14,7 @@
 #used_rule_from_app_scss {
     color: blue;
 }
+
+.hehe:is(:hover) {
+    color: red !important;
+}
