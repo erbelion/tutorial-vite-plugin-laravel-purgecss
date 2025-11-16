@@ -2,7 +2,7 @@
 
 [![views](https://views.erbek.space/api/views.svg?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)](https://views.erbek.space/page/?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss) [![likes](https://views.erbek.space/api/likes.svg?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)](https://views.erbek.space/api/like?id=github.com%2Ferbelion%2Ftutorial-vite-plugin-laravel-purgecss)
 
-tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.4.2 running on laravel/laravel@12.10.1
+tutorial for [@erbelion/vite-plugin-laravel-purgecss](https://github.com/Erbelion/vite-plugin-laravel-purgecss)@0.4.4 running on laravel/laravel@12.10.1
 
 ## 🚀 how to run this example
 
@@ -22,7 +22,7 @@ composer create-project laravel/laravel:12.10.1 .
 composer require laravel/ui
 php artisan ui bootstrap
 npm install
-npm install @erbelion/vite-plugin-laravel-purgecss@0.4.2
+npm install @erbelion/vite-plugin-laravel-purgecss@0.4.4
 ```
 
 in .env, set `SESSION_DRIVER=file`
