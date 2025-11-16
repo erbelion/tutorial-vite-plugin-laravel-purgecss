@@ -18,6 +18,6 @@
         "vite": "^7.0.7"
     },
     "dependencies": {
-        "@erbelion/vite-plugin-laravel-purgecss": "^0.4.2"
+        "@erbelion/vite-plugin-laravel-purgecss": "^0.4.4"
     }
 }
